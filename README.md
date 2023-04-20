@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @utkarsh3301
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any projects related to Data analysis
+
